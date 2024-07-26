@@ -1,4 +1,4 @@
-#Library Management System
+# Library Management System
 
 This repository houses a comprehensive Library Management System built with Java Spring Boot and MySQL. The application streamlines the management of library resources, user accounts, and borrowing activities, providing an efficient solution for librarians and a user-friendly experience for patrons.
 
