@@ -5,15 +5,15 @@ This repository houses a comprehensive Library Management System built with Java
 
 *Key Features*
 
-User Management: Full CRUD operations for library user accounts.
+-User Management: Full CRUD operations for library user accounts.
 
-Book Catalog: Efficient management of the library's book collection.
+-Book Catalog: Efficient management of the library's book collection.
 
-Borrowing System: Streamlined process for checking out and returning books.
+-Borrowing System: Streamlined process for checking out and returning books.
 
-Real-time Updates: Immediate system updates for borrowing activities.
+-Real-time Updates: Immediate system updates for borrowing activities.
 
-Notification System: Automated alerts for due dates and available books.
+-Notification System: Automated alerts for due dates and available books.
 
 
 *Technology Stack*
